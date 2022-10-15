@@ -68,3 +68,24 @@
 .cmb-link{
   margin: 0 auto;
 }
+
+@media (max-width: 1200px) {
+  #comebacker{
+    max-width: 100%;
+    padding: 40px 20px 0 20px;
+  }
+}
+
+@media (max-width: 800px) {
+  #comebacker{
+    max-width: 100%;
+    padding: 80px 20px 0 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  #comebacker{
+    max-width: 100%;
+    padding: 100px 0 0 0;
+  }
+}
